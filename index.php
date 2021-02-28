@@ -1,7 +1,7 @@
-<?php $company = "T AND M LANDSCAPING";
-$phone = "(719) 948-1559";
-	$address1 = "563 S PUEBLO BLVD";
-	$address2 = "PUEBLO, CO 81005";
+<?php $company = "MPM LANDSCAPING & DESIGN LIMITED LIABILITY COMPANY";
+$phone = "(609) 781-6651";
+	$address1 = "230 N MAPLE AVE STE 313";
+	$address2 = "MARLTON, NJ 08053";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -74,7 +74,7 @@ $phone = "(719) 948-1559";
                   </div>
                 </div>
                 <h3 class="u-text u-text-7">Contact us</h3>
-                <h6 class="u-text u-text-8">Do not hesitate to start a new project with us!</h6>
+                <h6 class="u-text u-text-8">Tell us about your project!</h6>
               </div>
             </div>
           </div>
